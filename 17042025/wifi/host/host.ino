@@ -1,7 +1,3 @@
-#define BUTTON_PIN A0
-#define LOUDNESS_PIN A1
-#define BRIGHTNESS_PIN A2
-
 #include <Arduino.h>
 #include <WiFiNINA.h>
 #include <WiFiSSLClient.h>
